@@ -1,4 +1,4 @@
-# Jeff Cheng
+# Jeff Yang
 
 ## 🚀 AI Director at CinnamonAI
 Leading a talented R&D team of over 40 professionals, driving innovation in Visually Rich Document Understanding (VRDU) and Agentic Retrieval-Augmented Generation (RAG). Dedicated to transforming complex AI concepts into scalable, impactful solutions that address real-world challenges.
