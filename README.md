@@ -1,16 +1,17 @@
-## Hi there 👋
+# Jeff Cheng
 
-<!--
-**jeff52415/jeff52415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI Director at CinnamonAI
+Leading a talented R&D team of over 40 professionals, driving innovation in Visually Rich Document Understanding (VRDU) and Agentic Retrieval-Augmented Generation (RAG). Dedicated to transforming complex AI concepts into scalable, impactful solutions that address real-world challenges.
 
-Here are some ideas to get you started:
+## 🔑 Highlights:
+- **Expertise in Full-Stack AI Development:** Comprehensive experience across the entire lifecycle of AI product development, from ideation to deployment.
+- **Leadership:** Driving cross-functional teams to align research, development, and strategy with the latest industry trends.
+- **Strategic Focus:** Collaborating with executives to craft and execute technical strategies that advance organizational objectives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Vision
+Committed to advancing the boundaries of AI and empowering teams to deliver exceptional results. Open to connecting to discuss AI innovation, leadership, or transformative solutions.
+
+## 🌐 Portfolio
+Check out my portfolio and research focus at [jeff52415.github.io](https://jeff52415.github.io)
+
+
